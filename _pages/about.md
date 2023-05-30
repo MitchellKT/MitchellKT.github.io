@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: MS.c student @ Technion / Deep learning researcher
 
 profile:
   align: right
@@ -21,15 +21,15 @@ social: true  # includes social icons at the bottom of the page
 
 Hello there! :wave:
 
-I am a MS.c student at the Technion, working on some theoretical and practical aspects of Deep Learning.
+I am a MS.c student at the Technion, working on some theoretical and practical aspects of Deep Learning. :chart_with_downwards_trend:
 
-More specifically, I am interested in learning from limited or imperfect data, Meta Learning and Geometric Deep Learning.
+More specifically, I am interested in learning from limited or imperfect data, Meta Learning and Geometric Deep Learning. :globe_with_meridians:
 
-My academic supervisor is Dr. Chaim Baskin.
+My academic supervisor is Dr. Chaim Baskin. :microscope:
 
-Prior joining the Technion, I completed my BSc in Computer Engineering (Cum Laude) and Mathematics (Summa Cum Laude) mostly during high-school at Bar-Ilan Univeristy.
+Prior joining the Technion, I completed my BSc in Computer Engineering (Cum Laude) and Mathematics (Summa Cum Laude) mostly during high-school at Bar-Ilan Univeristy. :mortar_board:
 
-If I am not filling whiteboards with nonsense or crashing GPUs, you'll probably find me in the climbing gym.
+If I am not filling whiteboards with nonsense or crashing GPUs, you'll probably find me in the climbing gym. :climbing:
 
 <!-- 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
