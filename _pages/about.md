@@ -20,11 +20,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Hello there! :wave:
+
 I am a MS.c student at the Technion, working on some theoretical and practical aspects of Deep Learning.
-More specifically, I am interested in learning from limited or imperfect data,
-Meta Learning and Geometric Deep Learning.
+
+More specifically, I am interested in learning from limited or imperfect data, Meta Learning and Geometric Deep Learning.
+
 My academic supervisor is Dr. Chaim Baskin.
+
 Prior joining the Technion, I completed my BSc in Computer Engineering (Cum Laude) and Mathematics (Summa Cum Laude) mostly during high-school at Bar-Ilan Univeristy.
+
 If I am not filling whiteboards with nonsense or crashing GPUs, you'll probably find me in the climbing gym.
 
 <!-- 
